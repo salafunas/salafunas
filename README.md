@@ -6,10 +6,10 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`Ups`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      Hi there! I'm <b>Salafunas saleh</b>
   </samp>
 </div>
 
