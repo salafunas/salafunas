@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Salafunas
+</h1>
 
-<!--
-**salafunas/salafunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+PHP;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Full-Stack Web Developer from Indonesia
+</p>
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,postgres,mysql,prisma,docker,git,github&perline=7" />
+</p>
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salafunas/salafunas/output/github-contribution-grid-snake-dark.svg" />
+</p>
