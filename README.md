@@ -9,12 +9,12 @@
 <p align="center">
   💻 Full-Stack Web Developer from Indonesia
 </p>
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,postgres,mysql,prisma,docker,git,github&perline=7" />
 </p>
-## 🐍 My Contributions
+🐍 My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/salafunas/salafunas/output/github-contribution-grid-snake-dark.svg" />
